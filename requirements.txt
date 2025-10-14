@@ -1,0 +1,14 @@
+﻿asgiref==3.9.1
+Django==5.2.6
+django_db==0.0.7
+djangorestframework==3.16.1
+implicit
+numpy
+pandas
+scipy
+gunicorn
+dj_database_url
+whitenoise
+
+
+
